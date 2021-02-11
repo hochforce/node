@@ -13,7 +13,7 @@ function writeFile(cb) {
 
       cb(JSON.stringify({message: "ok"}))
     }
-    )
+  )
 }
 
 http.createServer((req, res) => {
