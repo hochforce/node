@@ -1,0 +1,12 @@
+{
+  "urls": [
+    {
+      "name": "Hugo",
+      "url": "http://www.google.com"
+    },
+    {
+      "name": "hugo",
+      "url": "http://www.hugohoch.com"
+    }
+  ]
+}
